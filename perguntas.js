@@ -29,7 +29,85 @@ criaCartao(
 )
 
 criaCartao(
+    'biologia',
+    ' O que é a célula?',
+    'A célula é a unidade básica da vida.'
+)
+
+criaCartao(
+    'biologia',
+    'Qual é o órgão responsável pela respiração em humanos?',
+    'Os pulmões.'
+)
+
+criaCartao(
     'matemática',
-    'Qual é a fórmula para calcular o perímetro de um triângulo?',
-    'p= l+l+l'
+    'O que é um número primo?',
+    'Um número que só pode ser dividido por 1 e por ele mesmo.'
+)
+
+criaCartao(
+    'matemática',
+    'Qual é a fórmula da área de um círculo?',
+    'A = πr², onde "r" é o raio.'
+)
+
+criaCartao(
+    'história',
+    'O que foi a Revolução Francesa?',
+    'Um movimento social e político que ocorreu na França entre 1789 e 1799, que resultou na queda da monarquia.'
+)
+
+criaCartao(
+    'história',
+    'Quem foi Cristóvão Colombo?',
+    'Um navegador genovês que chegou à América em 1492.'
+)
+
+criaCartao(
+    'quimica',
+    'O que é um elemento químico?',
+    'Uma substância que não pode ser decomposta em substâncias mais simples.'
+)
+
+criaCartao(
+    'quimica',
+    'Qual é o símbolo químico da água?',
+    ' H₂O.'
+)
+
+criaCartao(
+    'geografia',
+    'Qual é o maior continente do mundo?',
+    'A Ásia.'
+)
+
+criaCartao(
+    'geografia',
+    'O que é um rio?',
+    'Um corpo de água doce que flui em direção a um oceano, lago ou outro rio.'
+)
+
+criaCartao(
+    'história',
+    'Qual é a capital do Brasil?',
+    'Brasília'
+)
+
+criaCartao(
+    'quimica',
+    'O que é uma reação química?',
+    'Um processo em que substâncias se transformam em novas substâncias'
+)
+
+criaCartao(
+    'biologia',
+    'O que é fotossíntese?',
+    'O processo pelo qual as plantas convertem luz solar em energia'
+)
+
+criaCartao(
+    'quimica',
+    'Qual é o símbolo químico da água?',
+    ' H₂O.'
 )
