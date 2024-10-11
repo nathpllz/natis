@@ -1,0 +1,13 @@
+:root{
+    --fundo: 		#db8dbe;
+    --frente-cartao: 		#C71585;
+    --verso-cartao: #df62a0;
+    --destaque: #a00e5c;
+    --preto: #000000;
+    --branco: #ffffff;
+
+}
+
+body{
+    background-color: var(--fundo);
+}
