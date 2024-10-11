@@ -15,4 +15,5 @@ body{
 footer{
     background-color: var(--preto);
     position: fixed;
+    bottom: 0%;
 }
