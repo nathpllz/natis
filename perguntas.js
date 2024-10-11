@@ -115,7 +115,7 @@ criaCartao(
 
 criaCartao(
     'matemática',
-    'Qual é o resultado de 3 ao cubo?'
+    'Qual é o resultado de 3 ao cubo?',
     '27'
 
 )
