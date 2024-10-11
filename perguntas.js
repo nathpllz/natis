@@ -73,7 +73,7 @@ criaCartao(
 criaCartao(
     'quimica',
     'Qual é o símbolo químico da água?',
-    ' H₂O.'
+    'H₂O.'
 )
 
 criaCartao(
@@ -100,14 +100,16 @@ criaCartao(
     'Um processo em que substâncias se transformam em novas substâncias'
 )
 
+c
+
 criaCartao(
-    'biologia',
-    'O que é fotossíntese?',
-    'O processo pelo qual as plantas convertem luz solar em energia'
+    'matemática',
+    'O que é uma equação?',
+    'Uma expressão matemática que estabelece que duas coisas são iguais.'
 )
 
 criaCartao(
-    'quimica',
-    'Qual é o símbolo químico da água?',
-    ' H₂O.'
+    'fisica',
+    'Quem foi Albert Einstein?',
+    'Um físico teórico famoso por desenvolver a teoria da relatividade.'
 )
