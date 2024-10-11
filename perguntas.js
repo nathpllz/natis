@@ -100,7 +100,6 @@ criaCartao(
     'Um processo em que substâncias se transformam em novas substâncias'
 )
 
-c
 
 criaCartao(
     'matemática',
@@ -112,4 +111,11 @@ criaCartao(
     'fisica',
     'Quem foi Albert Einstein?',
     'Um físico teórico famoso por desenvolver a teoria da relatividade.'
+)
+
+criaCartao(
+    'matemática',
+    'Qual é o resultado de 3 ao cubo?'
+    '27'
+
 )
