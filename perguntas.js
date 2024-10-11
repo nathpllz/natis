@@ -12,8 +12,8 @@ criaCartao(
 
 criaCartao(
     'matemática',
-    'No meu jardim existe 3 pés de alface, 1 de pepino e 5 de cenoura. Quantos pés eu tenho no total?',
-    'Eu, como a maior parte das pessoas, tenho 2 pés.'
+    'Qual é a definição de filosofia?',
+    'Filosofia é o estudo das questões fundamentais sobre a existência, conhecimento, valores, razão e a natureza da realidade.'
 )
 
 criaCartao(
