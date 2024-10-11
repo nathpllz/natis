@@ -1,9 +1,9 @@
 :root{
     --fundo: 		#df98c5;
-    --frente-cartao: 		#86165d;
+    --frente-cartao: 		#a75388;
     --verso-cartao: #df62a0;
     --destaque: #ff0088;
-    --preto: #57052e;
+    --preto: #3f0a24;
     --branco: #ffffff;
 
 }
@@ -13,7 +13,7 @@ body{
 }
 
 footer{
-    background-color: var(#57052e);
+    background-color: var(--preto));
     position: fixed;
     bottom: 0;
     color: var(--branco);
