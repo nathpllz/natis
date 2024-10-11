@@ -7,5 +7,5 @@ criaCartao(
 criaCartao(
     'matemática',
     'pergunta',
-    'resposta',
+    'resposta'
 )
