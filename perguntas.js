@@ -7,7 +7,7 @@ criaCartao(
 criaCartao(
     'matemática',
     'Caminhando ao fim da tarde, uma senhora contou 20 casas em uma rua à sua direita. No regresso, ela contou 20 casas à sua esquerda. Quantas casas ela viu no total?',
-    'rA senhora viu 20 casas no total, porque a sua direita na ida é a sua esquerda na volta, ou seja, nos dois itinerários, ela viu e contou as mesmas casas, e não casas diferentes.'
+    'A senhora viu 20 casas no total, porque a sua direita na ida é a sua esquerda na volta, ou seja, nos dois itinerários, ela viu e contou as mesmas casas, e não casas diferentes.'
 )
 
 criaCartao(
