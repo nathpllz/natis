@@ -22,5 +22,7 @@ footer{
 }
 
 #container{
-    padding: auto;
+    padding: 4rem;
+    display: flex;
+    gap: 3rem;
 }
