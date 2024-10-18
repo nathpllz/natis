@@ -1,5 +1,5 @@
 criaCartao(
-    'BIOLOGIA',
+    'Biologia',
     'Para realizar seus experimentos, Mendel usou um organismo que apresenta curto tempo de geração, cultivo fácil e que gera grande número de descendentes. Que organismo foi esse?',
     'Ervilha'
 )
