@@ -11,7 +11,7 @@ criaCartao(
 )
 
 criaCartao(
-    'matemática',
+    'filosofia',
     'Qual é a definição de filosofia?',
     'Filosofia é o estudo das questões fundamentais sobre a existência, conhecimento, valores, razão e a natureza da realidade.'
 )
