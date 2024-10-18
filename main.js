@@ -1,1 +1,3 @@
-script
+function criaCartao(categoria,pergunta,resposta){
+
+}
