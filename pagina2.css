@@ -45,7 +45,7 @@ footer{
     border: 1px solid var(--destaque);
     padding: 40px;
     color: var(--branco);
-    box-shadow: 2px 2px 2px var(--preto)
+    box-shadow: 2px 2px 2px var(--preto);
     cursor: pointer
 
     
